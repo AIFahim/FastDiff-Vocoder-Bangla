@@ -62,7 +62,6 @@
         ```
         **This will populate the training files inside of the `data/processed/ljspeech` folder**
 
-        ```
 ## Training Stages:
 - **Step 1** :
     - Train the prodiff teacher in the cmd: 
